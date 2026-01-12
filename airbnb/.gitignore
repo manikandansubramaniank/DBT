@@ -1,0 +1,4 @@
+dbt_packages/
+logs/
+profiles.yml
+dbt_internal_packages/
